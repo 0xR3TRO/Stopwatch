@@ -1,3 +1,4 @@
+// Scripts and functions on this page are the creation of 0xR3TR0. All rights reserved.
 let [milliseconds, seconds, minutes, hours] = [0, 0, 0, 0];
 let timeRef = document.querySelector(".timer-display");
 let int = null;
